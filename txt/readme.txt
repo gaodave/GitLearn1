@@ -2,3 +2,4 @@
 Git is a  software. 
 Hello Git boy, I'm here!
 Hello Penta King!
+Git is my friend!
